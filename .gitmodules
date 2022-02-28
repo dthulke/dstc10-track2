@@ -1,0 +1,6 @@
+[submodule "recipe/i6_core"]
+	path = recipe/i6_core
+	url = https://github.com/rwth-i6/i6_core.git
+[submodule "code"]
+	path = code
+	url = https://git.rwth-aachen.de/rwth-i6-nlu/dstc-10-track-2-code.git
